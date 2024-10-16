@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+The Naver map zones are visible
+
+https://github.com/user-attachments/assets/24639300-f0b9-4ee5-8f7f-b47ab0ed99e4
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
